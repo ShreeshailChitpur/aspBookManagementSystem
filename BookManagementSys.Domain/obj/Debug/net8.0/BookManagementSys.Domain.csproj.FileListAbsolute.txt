@@ -1,0 +1,11 @@
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\bin\Debug\net8.0\BookManagementSys.Domain.deps.json
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\bin\Debug\net8.0\BookManagementSys.Domain.dll
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\bin\Debug\net8.0\BookManagementSys.Domain.pdb
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\obj\Debug\net8.0\BookManagementSys.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\obj\Debug\net8.0\BookManagementSys.Domain.AssemblyInfoInputs.cache
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\obj\Debug\net8.0\BookManagementSys.Domain.AssemblyInfo.cs
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\obj\Debug\net8.0\BookManagementSys.Domain.csproj.CoreCompileInputs.cache
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\obj\Debug\net8.0\BookManagementSys.Domain.dll
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\obj\Debug\net8.0\refint\BookManagementSys.Domain.dll
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\obj\Debug\net8.0\BookManagementSys.Domain.pdb
+D:\Work\aspnetAssignment\BookManagementSys\BookManagementSys.Domain\obj\Debug\net8.0\ref\BookManagementSys.Domain.dll
