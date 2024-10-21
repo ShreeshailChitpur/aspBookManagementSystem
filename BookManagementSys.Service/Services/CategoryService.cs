@@ -48,4 +48,3 @@ namespace BookManagementSys.Service.Services
         }
     }
 }
-// Hey yesterday was super fun with you, do let me know if your group is planning something again!
